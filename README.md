@@ -4,7 +4,7 @@
 
 Hi, I am Md. Ataullah. I am a professional self-taught. I love to code.
 
-Skills: HTML / CSS/ JS/ REACT  
+Skills: HTML / CSS/ Tailwind / Bootstrap / JavaScript / REACT / Git-GitHub  
 
 - 🌱 I’m currently learning web development 
 - 💬 Ask me about web development 
