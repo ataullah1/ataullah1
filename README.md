@@ -17,4 +17,4 @@ Skills: HTML / CSS/ Tailwind / Bootstrap / JavaScript / REACT / Git-GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ataullah1&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/ataullah1)  
+
