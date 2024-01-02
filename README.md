@@ -1,13 +1,16 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Md Ataullah</h1>
 <h3 align="center">Frontend Web Developer</h3>
-- 🔭 I’m currently working on [Color Picker](https://ataullah1.github.io/color-picker/)
-- 🤝 I’m looking for help with [Student Help](https://ataullah1.github.io/Classes-for-students/)
-- 🌱 I’m currently learning **Tailwind, JavaScript, React**
-- 💬 Ask me about **React, Tailwind**
+- 🌱 I’m currently learning **Tailwind, React**
+
+- 🤝 I’m looking for help with [Student Practice](https://ataullah1.github.io/Classes-for-students/)
+
+- 💬 Ask me about **JavaScript, React, Tailwind, etc..**
+
 - 📫 How to reach me **ataullahm100@gmail.com**
-- 👨‍💻 All of my projects are available at **https://www.linkedin.com/in/md-ataullah/**
-- 📄 Know about my experiences **https://www.linkedin.com/in/md-ataullah/**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/md-ataullah/](https://www.linkedin.com/in/md-ataullah/)
+  
 - ⚡ Fun fact **😊**
 
 <div> <a href="https://twitter.com/dev_ataullah" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
