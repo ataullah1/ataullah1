@@ -1,10 +1,6 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Md Ataullah</h1>
 <h3 align="center">Frontend Web Developer</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ataullah1&label=Profile%20views&color=0e75b6&style=flat" alt="ataullah1" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ataullah1&theme=" alt="ataullah1" /></a> </p>
-
 - 🔭 I’m currently working on [Color Picker](https://ataullah1.github.io/color-picker/)
 - 🤝 I’m looking for help with [Student Help](https://ataullah1.github.io/Classes-for-students/)
 - 🌱 I’m currently learning **Tailwind, JavaScript, React**
@@ -40,7 +36,11 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ataullah1&theme=" alt="ataullah1" /></p>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataullah1&layout=compact&theme=" alt=ataullah1 />
+
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ataullah1&show_icons=true&locale=en&theme=dark" alt="ataullah1" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ataullah1&theme=dark" alt="ataullah1" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
