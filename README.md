@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Md Ataullah</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
-- 🌱 I’m currently learning: **Tailwind, React**
+- 🌱 I’m currently learning: **NodeJS, MongoDB**
 
-- 💬 Ask me about: **JavaScript, React, Tailwind, etc..**
+- 💬 Ask me about: **JavaScript, ReactJS, TailwindCSS, etc..**
 
-- 🔭 I’m currently working on: [Color Picker](https://ataullah1.github.io/color-picker/)
+- 🔭 I’m currently working on: [Color Picker](https://snowynest-c1dbe.web.app/)
 
 - 📫 How to reach me: **ataullahm100@gmail.com**
 
