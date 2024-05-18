@@ -6,7 +6,7 @@
 
 - 💬 Ask me about: **JavaScript, ReactJS, TailwindCSS, etc..**
 
-- 🔭 I’m currently working on: [Snowy Nest](https://snowynest-c1dbe.web.app/)
+- 🔭 I’m currently working on: [Alt Query](https://altquery.web.app/)
 
 - 📫 How to reach me: **ataullahm100@gmail.com**
 
