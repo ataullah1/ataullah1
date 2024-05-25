@@ -6,11 +6,11 @@
 
 - 💬 Ask me about: **JavaScript, ReactJS, TailwindCSS, etc..**
 
-- 🔭 I’m currently working on: [Alt Query](https://altquery.web.app/)
+- 🔭 I’m recently working on: [Alt Query](https://altquery.web.app/)
 
 - 📫 How to reach me: **ataullahm100@gmail.com**
 
-- 📄 Know about my experiences: [Click Now](https://www.linkedin.com/in/md-ataullah/)
+- 📄 Know about my experiences: [Click Now](https://md-ataullah.web.app/)
   
 - ⚡ Fun fact **😊**
 
