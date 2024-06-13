@@ -6,7 +6,7 @@
 
 - 💬 Ask me about: **JavaScript, ReactJS, TailwindCSS, etc..**
 
-- 🔭 I’m recently working on: [Alt Query](https://altquery.web.app/)
+- 🔭 I’m recently working on: [Varsity Hostel Management System](https://fueled-student.web.app/)
 
 - 📫 How to reach me: **ataullahm100@gmail.com**
 
