@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Md Ataullah</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
-- 🌱 I’m currently learning: **Express.js, NodeJS, MongoDB**
+- 🌱 I’m currently learning: **NextJs, TypeScript**
 
 - 💬 Ask me about: **JavaScript, ReactJS, TailwindCSS, etc..**
 
