@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning: **NextJs, TypeScript**
 
-- 💬 Ask me about: **JavaScript, ReactJS, TailwindCSS, etc..**
+- 💬 Ask me about: **JavaScript, ReactJS, TailwindCSS, etc...**
 
 - 🔭 I’m recently working on: [Varsity Hostel Management System](https://fueled-student.web.app/)
 
