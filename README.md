@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Md Ataullah</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
-- 🌱 I’m currently learning: **NextJs, TypeScript**
+- 🌱 I’m currently learning: **PostgreSQL, Prisma**
 
-- 💬 Ask me about: **JavaScript, ReactJS, TailwindCSS, etc...**
+- 💬 Ask me about: **JavaScript, NextJs, ReactJs, etc...**
 
 - 🔭 I’m recently working on: [Varsity Hostel Management System](https://fueled-student.web.app/)
 
