@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/dev_ataullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="dev_ataullah" height="30" width="40" /></a><a href="https://linkedin.com/in/md-ataullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="md-ataullah" height="30" width="40" /></a><a href="https://fb.com/ataullah0" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="ataullah0" height="30" width="40" /></a><a href="https://dribbble.com/mdataullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/dribbble.svg" alt="mdataullah" height="30" width="40" /></a><a href="https://discord.gg/1112250779315753050" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="1112250779315753050" height="30" width="40" /></a><a href="https://stackoverflow.com/users/20224966" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/stack-overflow.svg" alt="20224966" height="30" width="40" /></a><a href="https://instagram.com/ataullah.info" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="ataullah.info" height="30" width="40" /></a></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools: </h3>
 <p align="left">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
@@ -39,7 +39,7 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
+<h3 align="left">Stars </h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataullah1&layout=compact&theme=" alt=ataullah1 />
 
 <p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ataullah1&show_icons=true&locale=en&theme=dark" alt="ataullah1" /></p>
