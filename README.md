@@ -6,11 +6,11 @@
 
 - 💬 Ask me about: **JavaScript, NextJs, ReactJs, etc...**
 
-- 🔭 I’m recently working on: [Varsity Hostel Management System](https://fueled-student.web.app/)
+- 🔭 I’m recently working on: [News Portal](https://news-protal-with-nextjs.vercel.app/)
 
 - 📫 How to reach me: **ataullahm100@gmail.com**
 
-- 📄 Know about my experiences: [Click Now](https://md-ataullah.web.app/)
+- 📄 Know about my experiences: [Click Now](https://ataullah.vercel.app/)
   
 - ⚡ Fun fact **😊**
 
