@@ -17,7 +17,7 @@ I'm a passionate **Software Developer** from Bangladesh, focusing on building sc
 - 📚 **Learning:** Advanced PostgreSQL, Prisma, and System Architecture.
 - 💬 **Ask me about:** JavaScript, React, Next.js, and Database Design.
 - 📫 **Reach me at:** [dev.ataullah@gmail.com](mailto:dev.ataullah@gmail.com)
-- 📄 **Portfolio:** [ataullah.vercel.app](https://ataullah.vercel.app/)
+- 📄 **Portfolio:** [ataullah.com](https://ataullah.vercel.app/)
 
 ---
 
