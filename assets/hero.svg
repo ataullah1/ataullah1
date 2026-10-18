@@ -1,10 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-label="Md Ataullah, full stack developer and SaaS builder">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#090e1b"/><stop offset="1" stop-color="#11172a"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#77e4d4"/><stop offset="1" stop-color="#8aaaff"/></linearGradient><radialGradient id="glow"><stop stop-color="#3868c2" stop-opacity=".28"/><stop offset="1" stop-color="#3868c2" stop-opacity="0"/></radialGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" stroke="#98b7df" stroke-width=".5" fill="none" opacity=".11"/></pattern></defs>
-<rect width="1200" height="390" rx="24" fill="url(#bg)"/><rect width="1200" height="390" rx="24" fill="url(#grid)"/><circle cx="1010" cy="170" r="310" fill="url(#glow)"/>
-<rect x="52" y="48" width="12" height="12" rx="3" fill="#79e0ce"/><text x="77" y="59" fill="#a8b8cc" font-family="Arial,sans-serif" font-size="15" letter-spacing="3">INDEPENDENT DEVELOPER  /  BANGLADESH</text>
-<text x="52" y="156" fill="#f4f7fc" font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="74" letter-spacing="-3">Md Ataullah<tspan fill="#80dbc9">.</tspan></text>
-<text x="54" y="205" fill="#c0cce1" font-family="Arial,Helvetica,sans-serif" font-size="25">I build digital products that feel as good as they work.</text>
-<rect x="52" y="253" width="342" height="40" rx="20" fill="#18283b" stroke="#385468"/><circle cx="76" cy="273" r="5" fill="#80dfbe"/><text x="92" y="279" font-family="Arial,sans-serif" fill="#c5e4e2" font-size="15">FULL-STACK  ·  NEXT.JS  ·  SAAS</text>
-<path d="M835 56L1092 56L1154 118L1154 340L898 340L835 278Z" stroke="#8eb7f2" stroke-opacity=".36" fill="none" stroke-width="1.5"/><path d="M880 98H1043L1108 164V300H945L880 235Z" stroke="#82dfd4" stroke-opacity=".53" fill="none" stroke-width="2"/><circle cx="999" cy="194" r="85" stroke="#9ab9e8" stroke-opacity=".3" stroke-width="1" fill="none"/><circle cx="999" cy="194" r="48" fill="#142b43" stroke="#7be2cf" stroke-width="2"/><path d="M977 194L992 209L1022 176" stroke="#7be2cf" stroke-width="7" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="1108" cy="164" r="5" fill="#8eaafa"/><circle cx="880" cy="235" r="5" fill="#7be2cf"/>
-<text x="53" y="352" fill="#62778f" font-family="monospace" font-size="14" letter-spacing="2">DESIGN-LED THINKING     •     PRODUCT-MINDED ENGINEERING</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Ataullah — full-stack developer</title>
+  <desc id="desc">An editorial cream and orange composition with bold typography and an abstract asterisk.</desc>
+  <defs>
+    <pattern id="dots" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#242620" opacity=".13"/></pattern>
+  </defs>
+  <rect width="1200" height="480" rx="20" fill="#f2f0e9"/>
+  <path d="M36 68H1164M36 414H1164" stroke="#242620" stroke-opacity=".22"/>
+  <g fill="#292b25" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2">
+    <text x="38" y="43">MD ATAULLAH / DIGITAL CRAFT</text>
+    <text x="1162" y="43" text-anchor="end">BANGLADESH · OPEN TO COLLABORATE</text>
+  </g>
+  <text x="32" y="217" font-family="Arial, Helvetica, sans-serif" font-size="142" font-weight="800" letter-spacing="-10" fill="#242620">Ataullah<tspan fill="#e85c35">.</tspan></text>
+  <g fill="#34362f" font-family="Arial, Helvetica, sans-serif" font-size="30" letter-spacing="-.6">
+    <text x="40" y="287">Interfaces with personality.</text>
+    <text x="40" y="329">Engineering with purpose.</text>
+  </g>
+  <rect x="821" y="96" width="343" height="286" rx="12" fill="url(#dots)"/>
+  <g transform="translate(990 231)" fill="#e85c35">
+    <rect x="-23" y="-112" width="46" height="224" rx="3"/>
+    <rect x="-23" y="-112" width="46" height="224" rx="3" transform="rotate(60)"/>
+    <rect x="-23" y="-112" width="46" height="224" rx="3" transform="rotate(120)"/>
+    <circle r="32" fill="#f2f0e9"/>
+    <circle r="12" fill="#242620"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.5" fill="#34362f">
+    <text x="40" y="449">FULL-STACK DEVELOPMENT</text>
+    <text x="1161" y="449" text-anchor="end">THOUGHTFUL UI. USEFUL PRODUCTS. ↗</text>
+  </g>
 </svg>
