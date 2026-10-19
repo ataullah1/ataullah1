@@ -1,47 +1,44 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
-  <title id="title">Form Studio — a little structure for your next idea.</title>
-  <desc id="desc">Concept illustration for a form-building SaaS in development, with a lavender form canvas and abstract customization controls. Not a screenshot of implemented features.</desc>
+  <title id="title">Form Studio — your desk, built around you.</title>
+  <desc id="desc">A modern oak studio desk with a dark architectural frame, presented as a furniture and workspace design concept. In development.</desc>
   <defs>
-    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7971ac" opacity=".16"/></pattern>
+    <linearGradient id="oak" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#dcc09a"/><stop offset="1" stop-color="#b98e61"/></linearGradient>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#efebe3"/><stop offset="1" stop-color="#e3ddd2"/></linearGradient>
   </defs>
-  <rect width="1200" height="460" rx="20" fill="#eeebf5"/>
-  <rect x="516" y="26" width="659" height="408" rx="14" fill="url(#dots)"/>
-  <circle cx="47" cy="43" r="5" fill="#6c52ba"/>
-  <text x="63" y="48" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#594586">THE NEXT CHAPTER</text>
-  <text x="42" y="153" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-3" fill="#292338">Form Studio<tspan fill="#7959c4">.</tspan></text>
-  <g font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#5f566f">
-    <text x="45" y="213">A little structure</text>
-    <text x="45" y="249">for your next idea.</text>
+  <rect width="1200" height="460" rx="20" fill="#f2efe8"/>
+  <circle cx="47" cy="43" r="5" fill="#8a6949"/>
+  <text x="63" y="48" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#75624f">CURRENT FOCUS / STUDIO DESK 01</text>
+  <text x="42" y="153" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-3" fill="#2c2c29">Form Studio<tspan fill="#9b7956">.</tspan></text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#656158">
+    <text x="45" y="213">Your desk.</text>
+    <text x="45" y="249">Built around you.</text>
   </g>
-  <path d="M46 295H441" stroke="#bcb2ce"/>
-  <text x="46" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.5" fill="#5f566f">CREATE / CUSTOMIZE / MANAGE</text>
-  <text x="46" y="414" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.6" fill="#65547d">IN DEVELOPMENT ↗</text>
-  <rect x="552" y="58" width="594" height="341" rx="14" fill="#e3dcef" stroke="#bcb0cf"/>
-  <path d="M553 101H1145" stroke="#bcb0cf"/>
-  <g fill="#a799bb"><circle cx="575" cy="80" r="4"/><circle cx="591" cy="80" r="4"/><circle cx="607" cy="80" r="4"/></g>
-  <text x="1121" y="84" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1" fill="#65547d">FORM CANVAS / CONCEPT</text>
-  <rect x="643" y="118" width="356" height="261" rx="9" fill="#fbfaff" stroke="#d3c9e2"/>
-  <rect x="643" y="118" width="356" height="6" rx="3" fill="#7959c4"/>
-  <text x="665" y="157" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="-.5" fill="#30253e">Start a conversation.</text>
-  <text x="665" y="180" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#776b87">A space for the details that matter.</text>
-  <text x="665" y="212" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#59496c">Your name</text>
-  <rect x="665" y="221" width="311" height="31" rx="5" fill="#f4f0f9" stroke="#d9cfe5"/>
-  <text x="665" y="278" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#59496c">What's on your mind?</text>
-  <rect x="665" y="287" width="311" height="33" rx="5" fill="#f4f0f9" stroke="#d9cfe5"/>
-  <rect x="665" y="337" width="104" height="25" rx="5" fill="#7959c4"/>
-  <text x="717" y="354" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#fff">Send a note ↗</text>
-  <rect x="1020" y="152" width="100" height="137" rx="9" fill="#30253e"/>
-  <text x="1035" y="177" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1" fill="#ddd0f0">PALETTE</text>
-  <circle cx="1043" cy="201" r="9" fill="#b59ae8" stroke="#f7efff" stroke-width="2"/>
-  <circle cx="1070" cy="201" r="9" fill="#eabbbb"/>
-  <circle cx="1097" cy="201" r="9" fill="#c6d8b9"/>
-  <path d="M1035 228H1105" stroke="#62516f"/>
-  <rect x="1035" y="244" width="70" height="6" rx="3" fill="#ab95c3"/>
-  <rect x="1035" y="260" width="45" height="6" rx="3" fill="#79648f"/>
-  <g transform="translate(594 192)" stroke="#7959c4" stroke-width="2" fill="#f8f5ff">
-    <rect x="-22" y="-22" width="44" height="44" rx="10"/>
-    <path d="M-8 0H8M0-8V8" stroke-linecap="round"/>
+  <path d="M46 295H441" stroke="#c6bcae"/>
+  <text x="46" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.5" fill="#656158">FORM / MATERIAL / WORKSPACE</text>
+  <text x="46" y="414" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.6" fill="#75624f">IN DEVELOPMENT ↗</text>
+  <rect x="543" y="38" width="615" height="363" rx="12" fill="url(#paper)"/>
+  <text x="566" y="68" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2" fill="#756f63">01 — THE WORKSPACE COLLECTION</text>
+  <text x="1134" y="68" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1" fill="#756f63">CONCEPT</text>
+  <ellipse cx="856" cy="338" rx="224" ry="26" fill="#b1a28e" opacity=".2"/>
+  <path d="M662 232L679 228V342L662 347Z" fill="#353733"/>
+  <path d="M679 228L690 234V343L679 342Z" fill="#50514a"/>
+  <path d="M1015 212L1031 209V325L1015 331Z" fill="#353733"/>
+  <path d="M1031 209L1041 215V326L1031 325Z" fill="#50514a"/>
+  <path d="M673 246L1019 225V239L673 260Z" fill="#444640"/>
+  <path d="M654 213L1000 185L1072 218L722 251Z" fill="url(#oak)"/>
+  <path d="M654 213L722 251V261L654 224Z" fill="#ae8359"/>
+  <path d="M722 251L1072 218V228L722 261Z" fill="#c19a70"/>
+  <g stroke="#a78057" stroke-width="1" opacity=".35" fill="none">
+    <path d="M678 215L1008 192M692 223L1022 198M707 231L1037 205M724 239L1053 212"/>
   </g>
-  <path d="M595 222V344H624" fill="none" stroke="#aa98c3" stroke-dasharray="4 5"/>
-  <text x="1145" y="427" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5" fill="#65547d">A WORK IN PROGRESS. A NEW DIRECTION.</text>
+  <path d="M729 259L745 257V364L729 370Z" fill="#2c2f2b"/>
+  <path d="M745 257L755 260V365L745 364Z" fill="#4a4d45"/>
+  <path d="M1044 231L1060 229V339L1044 345Z" fill="#2c2f2b"/>
+  <path d="M1060 229L1070 232V340L1060 339Z" fill="#4a4d45"/>
+  <path d="M711 161H1005M711 156V166M1005 156V166" stroke="#a89c89" fill="none"/>
+  <text x="858" y="147" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="2" fill="#817461">PROPORTION WITH PURPOSE</text>
+  <path d="M568 376H1134" stroke="#c6bcae"/>
+  <text x="568" y="393" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1.4" fill="#756f63">OAK / DARK FRAME</text>
+  <g stroke="#c6bcae"><circle cx="1084" cy="388" r="6" fill="#c49d71"/><circle cx="1106" cy="388" r="6" fill="#78563d"/><circle cx="1128" cy="388" r="6" fill="#ded1b9"/></g>
+  <text x="1157" y="427" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5" fill="#75624f">FURNITURE. FORM. POSSIBILITY.</text>
 </svg>

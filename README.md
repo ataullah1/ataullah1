@@ -17,34 +17,21 @@ I recently completed and launched **[Review Room](https://rreviewroom.vercel.app
 
 ## Selected Work ↘
 
-<a href="https://rreviewroom.vercel.app/">
-  <img src="./assets/review-room.svg" width="100%" alt="Review Room — launched visual feedback and client approval platform." />
-</a>
-
-### Review Room &nbsp; · &nbsp; <sub>Launched SaaS</sub>
-
-A visual feedback and client approval platform for designers, teams, and clients. Keep **contextual comments, design versions, revisions, and approvals** together in one workspace.
-
-`Next.js` `TypeScript` `PostgreSQL` `Supabase` `Tailwind CSS`
-
-**[Explore the live product ↗](https://rreviewroom.vercel.app/)**
-
-<br />
-
 <a href="https://formstudioo.vercel.app/">
-  <img src="./assets/form-studio.svg" width="100%" alt="Form Studio — form-building SaaS in active development. Concept illustration of a customizable form interface." />
+  <img src="./assets/form-studio.svg" width="100%" alt="Form Studio — a modern studio desk and customizable workspace concept. Current focus, in development." />
 </a>
 
-### Form Studio &nbsp; · &nbsp; <sub>In Active Development</sub>
+### Form Studio &nbsp; · &nbsp; <sub>In Development · Current Focus</sub>
 
-My next SaaS product: a modern form builder focused on **creating, customizing, and managing forms** through an intuitive interface. Currently in development.
+A product and design exploration around a **modern studio desk** and a customizable workspace presentation, with attention to proportion, materials, and the way we work.
 
-**[Visit Form Studio ↗](https://formstudioo.vercel.app/)**
+**[Explore Form Studio ↗](https://formstudioo.vercel.app/)**
 
 <br />
 
 ### Other Projects
 
+**[Review Room ↗](https://rreviewroom.vercel.app/)** — Launched visual feedback and client approval platform.<br />
 **[Role-Based OAuth Dashboard ↗](https://github.com/ataullah1/Role-Based-OAuth-Dashboard)** — Authentication and role-based dashboard patterns.<br />
 **[Horizontal Collapse ↗](https://github.com/ataullah1/Horizontal-Collapse-Nextjs)** — An animated, reusable React / Next.js interface component.
 
