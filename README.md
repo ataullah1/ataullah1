@@ -18,7 +18,7 @@ I recently completed and launched **[Review Room](https://rreviewroom.vercel.app
 ## Selected Work ↘
 
 <a href="https://formstudioo.vercel.app/">
-  <img src="./assets/form-studio.svg" width="100%" alt="Form Studio — a modern studio desk and customizable workspace concept. Current focus, in development." />
+  <img src="./assets/form-studio.webp" width="100%" alt="Form Studio — a modern studio desk and customizable workspace concept. Current focus, in development." />
 </a>
 
 ### Form Studio &nbsp; · &nbsp; <sub>In Development · Current Focus</sub>
