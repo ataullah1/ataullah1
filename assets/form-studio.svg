@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="460" viewBox="0 0 1200 460" role="img" aria-labelledby="title desc">
+  <title id="title">Form Studio — a little structure for your next idea.</title>
+  <desc id="desc">Concept illustration for a form-building SaaS in development, with a lavender form canvas and abstract customization controls. Not a screenshot of implemented features.</desc>
+  <defs>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7971ac" opacity=".16"/></pattern>
+  </defs>
+  <rect width="1200" height="460" rx="20" fill="#eeebf5"/>
+  <rect x="516" y="26" width="659" height="408" rx="14" fill="url(#dots)"/>
+  <circle cx="47" cy="43" r="5" fill="#6c52ba"/>
+  <text x="63" y="48" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#594586">THE NEXT CHAPTER</text>
+  <text x="42" y="153" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-3" fill="#292338">Form Studio<tspan fill="#7959c4">.</tspan></text>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#5f566f">
+    <text x="45" y="213">A little structure</text>
+    <text x="45" y="249">for your next idea.</text>
+  </g>
+  <path d="M46 295H441" stroke="#bcb2ce"/>
+  <text x="46" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.5" fill="#5f566f">CREATE / CUSTOMIZE / MANAGE</text>
+  <text x="46" y="414" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.6" fill="#65547d">IN DEVELOPMENT ↗</text>
+  <rect x="552" y="58" width="594" height="341" rx="14" fill="#e3dcef" stroke="#bcb0cf"/>
+  <path d="M553 101H1145" stroke="#bcb0cf"/>
+  <g fill="#a799bb"><circle cx="575" cy="80" r="4"/><circle cx="591" cy="80" r="4"/><circle cx="607" cy="80" r="4"/></g>
+  <text x="1121" y="84" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1" fill="#65547d">FORM CANVAS / CONCEPT</text>
+  <rect x="643" y="118" width="356" height="261" rx="9" fill="#fbfaff" stroke="#d3c9e2"/>
+  <rect x="643" y="118" width="356" height="6" rx="3" fill="#7959c4"/>
+  <text x="665" y="157" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="-.5" fill="#30253e">Start a conversation.</text>
+  <text x="665" y="180" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#776b87">A space for the details that matter.</text>
+  <text x="665" y="212" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#59496c">Your name</text>
+  <rect x="665" y="221" width="311" height="31" rx="5" fill="#f4f0f9" stroke="#d9cfe5"/>
+  <text x="665" y="278" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#59496c">What's on your mind?</text>
+  <rect x="665" y="287" width="311" height="33" rx="5" fill="#f4f0f9" stroke="#d9cfe5"/>
+  <rect x="665" y="337" width="104" height="25" rx="5" fill="#7959c4"/>
+  <text x="717" y="354" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="11" fill="#fff">Send a note ↗</text>
+  <rect x="1020" y="152" width="100" height="137" rx="9" fill="#30253e"/>
+  <text x="1035" y="177" font-family="Arial, Helvetica, sans-serif" font-size="10" letter-spacing="1" fill="#ddd0f0">PALETTE</text>
+  <circle cx="1043" cy="201" r="9" fill="#b59ae8" stroke="#f7efff" stroke-width="2"/>
+  <circle cx="1070" cy="201" r="9" fill="#eabbbb"/>
+  <circle cx="1097" cy="201" r="9" fill="#c6d8b9"/>
+  <path d="M1035 228H1105" stroke="#62516f"/>
+  <rect x="1035" y="244" width="70" height="6" rx="3" fill="#ab95c3"/>
+  <rect x="1035" y="260" width="45" height="6" rx="3" fill="#79648f"/>
+  <g transform="translate(594 192)" stroke="#7959c4" stroke-width="2" fill="#f8f5ff">
+    <rect x="-22" y="-22" width="44" height="44" rx="10"/>
+    <path d="M-8 0H8M0-8V8" stroke-linecap="round"/>
+  </g>
+  <path d="M595 222V344H624" fill="none" stroke="#aa98c3" stroke-dasharray="4 5"/>
+  <text x="1145" y="427" text-anchor="end" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="1.5" fill="#65547d">A WORK IN PROGRESS. A NEW DIRECTION.</text>
+</svg>

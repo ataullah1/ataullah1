@@ -7,7 +7,7 @@
   <rect width="1200" height="460" rx="20" fill="#232820"/>
   <rect width="1200" height="460" rx="20" fill="url(#grid)"/>
   <circle cx="47" cy="43" r="5" fill="#d5ed88"/>
-  <text x="63" y="48" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#d5ed88">THE CURRENT BUILD</text>
+  <text x="63" y="48" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" fill="#d5ed88">LAUNCHED SAAS</text>
   <text x="42" y="153" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-3" fill="#f3f1e9">Review Room<tspan fill="#d5ed88">.</tspan></text>
   <g font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#c8cdbf">
     <text x="45" y="213">Feedback, with a</text>
@@ -15,7 +15,7 @@
   </g>
   <path d="M46 295H441" stroke="#69715e" stroke-opacity=".6"/>
   <text x="46" y="330" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="1.5" fill="#c8cdbf">COMMENT / REFINE / MOVE FORWARD</text>
-  <text x="46" y="414" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.6" fill="#a0a994">IN DEVELOPMENT ↗</text>
+  <text x="46" y="414" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="1.6" fill="#a0a994">LIVE PRODUCT ↗</text>
   <rect x="551" y="58" width="595" height="341" rx="14" fill="#141a13" stroke="#546047"/>
   <path d="M552 101H1145" stroke="#46503e"/>
   <circle cx="575" cy="80" r="4" fill="#77836c"/><circle cx="591" cy="80" r="4" fill="#77836c"/><circle cx="607" cy="80" r="4" fill="#77836c"/>
