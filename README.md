@@ -11,23 +11,21 @@
 
 I'm **Md Ataullah**, a Full-Stack Developer and SaaS Builder from Bangladesh. I enjoy building thoughtful digital products, modern interfaces, and software that solves real-world problems.
 
-I recently completed and launched **[Review Room](https://rreviewroom.vercel.app/)**. Now I'm building **[Answer Desk](https://answerdeskk.vercel.app/)**, an AI customer support platform, with a focus on full-stack engineering, product architecture, UI/UX, and scalable applications.
+My completed projects include **[Answer Desk](https://answerdeskk.vercel.app/)**, an AI customer support platform, and **[Review Room](https://rreviewroom.vercel.app/)**. My focus is full-stack engineering, product architecture, UI/UX, and scalable applications.
 
 <br />
 
 ## Selected Work ↘
 
 <a href="https://answerdeskk.vercel.app/">
-  <img src="./assets/answer-desk.webp" width="100%" alt="Answer Desk — AI customer support with source-backed answers and human handoff. In development, current focus." />
+  <img src="./assets/answer-desk.webp" width="100%" alt="Answer Desk — AI customer support with source-backed answers and human handoff. Completed featured project." />
 </a>
 
-### Answer Desk &nbsp; · &nbsp; <sub>In Development · Current Focus</sub>
+### Answer Desk &nbsp; · &nbsp; <sub>Completed · Featured Project</sub>
 
 An AI customer support platform that turns **FAQs, policies, and PDFs into answers with sources**, with human handoff when needed. Knowledge publishing, private visitor chat, an AI playground, and a human inbox are implemented, with role-based access for owners, admins, and agents.
 
 `Next.js` `Better Auth` `Supabase` `Prisma` `Gemini` `Inngest`
-
-Public chat is disabled pending AI quality evaluation. Next up: an embeddable website chat widget.
 
 **[Explore Answer Desk ↗](https://answerdeskk.vercel.app/)** &nbsp; · &nbsp; **[Source code ↗](https://github.com/ataullah1/answer-desk)**
 
