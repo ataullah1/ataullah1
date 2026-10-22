@@ -11,26 +11,31 @@
 
 I'm **Md Ataullah**, a Full-Stack Developer and SaaS Builder from Bangladesh. I enjoy building thoughtful digital products, modern interfaces, and software that solves real-world problems.
 
-I recently completed and launched **[Review Room](https://rreviewroom.vercel.app/)**. Now I'm developing **[Form Studio](https://formstudioo.vercel.app/)**, with a focus on full-stack engineering, product architecture, UI/UX, and scalable applications.
+I recently completed and launched **[Review Room](https://rreviewroom.vercel.app/)**. Now I'm building **[Answer Desk](https://answerdeskk.vercel.app/)**, an AI customer support platform, with a focus on full-stack engineering, product architecture, UI/UX, and scalable applications.
 
 <br />
 
 ## Selected Work ↘
 
-<a href="https://formstudioo.vercel.app/">
-  <img src="./assets/form-studio.webp" width="100%" alt="Form Studio — a modern studio desk and customizable workspace concept. Current focus, in development." />
+<a href="https://answerdeskk.vercel.app/">
+  <img src="./assets/answer-desk.webp" width="100%" alt="Answer Desk — AI customer support with source-backed answers and human handoff. In development, current focus." />
 </a>
 
-### Form Studio &nbsp; · &nbsp; <sub>In Development · Current Focus</sub>
+### Answer Desk &nbsp; · &nbsp; <sub>In Development · Current Focus</sub>
 
-A product and design exploration around a **modern studio desk** and a customizable workspace presentation, with attention to proportion, materials, and the way we work.
+An AI customer support platform that turns **FAQs, policies, and PDFs into answers with sources**, with human handoff when needed. Knowledge publishing, private visitor chat, an AI playground, and a human inbox are implemented, with role-based access for owners, admins, and agents.
 
-**[Explore Form Studio ↗](https://formstudioo.vercel.app/)**
+`Next.js` `Better Auth` `Supabase` `Prisma` `Gemini` `Inngest`
+
+Public chat is disabled pending AI quality evaluation. Next up: an embeddable website chat widget.
+
+**[Explore Answer Desk ↗](https://answerdeskk.vercel.app/)** &nbsp; · &nbsp; **[Source code ↗](https://github.com/ataullah1/answer-desk)**
 
 <br />
 
 ### Other Projects
 
+**[Form Studio ↗](https://formstudioo.vercel.app/)** — A modern studio desk concept and customizable workspace presentation.<br />
 **[Review Room ↗](https://rreviewroom.vercel.app/)** — Launched visual feedback and client approval platform.<br />
 **[Role-Based OAuth Dashboard ↗](https://github.com/ataullah1/Role-Based-OAuth-Dashboard)** — Authentication and role-based dashboard patterns.<br />
 **[Horizontal Collapse ↗](https://github.com/ataullah1/Horizontal-Collapse-Nextjs)** — An animated, reusable React / Next.js interface component.
